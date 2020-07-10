@@ -27,6 +27,11 @@ test.csv: 1387 x 5
 ```math
 score={100*f1_score(actual_values,predicted_values,average='weighted')}
 ```
+<i>About F1 Score:</i> 
+- F1 Score is the weighted average of Precision and Recall. 
+- Therefore, this score takes both false positives and false negatives into account. 
+- F1 is usually more useful than accuracy, especially if you have an uneven class distribution.
+
 ## More Details
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-mothers-day/problems/
 
