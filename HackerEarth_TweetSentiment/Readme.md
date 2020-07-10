@@ -24,9 +24,9 @@ train.csv: 3235 x 6
 test.csv: 1387 x 5
 
 ## Evaluation metric
-
+```math
 score={100*f1_score(actual_values,predicted_values,average='weighted')}
-
+```
 ## More Details
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-mothers-day/problems/
 
