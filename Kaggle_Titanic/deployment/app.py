@@ -26,11 +26,11 @@ def feature_change(features):
     final.append(int(0)) #ticket type
     final.append(int(class_cabin)) #class_cabin
     final.append(int(features[9])) #family size
-    print('before scaling', final)
-    final = scaler.transform([final])
-    print('after scaling', final[0])
-    return final[0]
-
+    # print('before scaling', final)
+    # final = scaler.transform([final])
+    # print('after scaling', final[0])
+    # return final[0]
+    return final
 
 
 @app.route('/')
