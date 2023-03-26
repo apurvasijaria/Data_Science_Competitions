@@ -1,0 +1,75 @@
+appdirs==1.4.4
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+Bottleneck @ file:///work/ci_py311/bottleneck_1676827011612/work
+brotlipy==0.7.0
+certifi @ file:///work/ci_py311/certifi_1676822443922/work/certifi
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///work/ci_py311/click_1676825163161/work
+comm @ file:///work/ci_py311/comm_1677709131612/work
+contourpy @ file:///work/ci_py311/contourpy_1676827066340/work
+cryptography @ file:///work/ci_py311_2/cryptography_1679335572456/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+debugpy @ file:///work/ci_py311/debugpy_1676824903649/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fonttools==4.25.0
+idna @ file:///work/ci_py311/idna_1676822698822/work
+ipykernel @ file:///work/ci_py311/ipykernel_1677867938687/work
+ipython @ file:///work/ci_py311/ipython_1676824927689/work
+jedi @ file:///work/ci_py311_2/jedi_1679336495545/work
+joblib @ file:///work/ci_py311/joblib_1676837020463/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter_core @ file:///work/ci_py311/jupyter_core_1676823347941/work
+keras @ file:///home/ktietz/ci_310/keras_split_1643826818613/work/keras-2.6.0-py2.py3-none-any.whl
+kiwisolver @ file:///work/ci_py311/kiwisolver_1676827230232/work
+matplotlib @ file:///croot/matplotlib-suite_1679593461707/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+mkl-fft==1.3.1
+mkl-random @ file:///work/ci_py311/mkl_random_1676828032909/work
+mkl-service==2.4.0
+munkres==1.1.4
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
+numexpr @ file:///work/ci_py311_2/numexpr_1679336657660/work
+numpy @ file:///work/ci_py311/numpy_and_numpy_base_1676823870601/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.5.3
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.4.0
+platformdirs @ file:///work/ci_py311/platformdirs_1676823055788/work
+ply==3.11
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+prompt-toolkit @ file:///work/ci_py311/prompt-toolkit_1676824857154/work
+psutil @ file:///work/ci_py311_2/psutil_1679337388738/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyOpenSSL @ file:///croot/pyopenssl_1678965284384/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+PyQt5-sip==12.11.0
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///work/ci_py311/pytz_1676825004346/work
+pyzmq @ file:///work/ci_py311/pyzmq_1676918885689/work
+regex @ file:///work/ci_py311/regex_1677086824242/work
+requests @ file:///work/ci_py311_2/requests_1679337615230/work
+scikit-learn @ file:///work/ci_py311/scikit-learn_1676919156528/work
+scipy==1.10.0
+seaborn @ file:///work/ci_py311/seaborn_1676845747354/work
+sip @ file:///work/ci_py311/sip_1676825117084/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+textblob==0.17.1
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tornado @ file:///work/ci_py311/tornado_1676823418767/work
+tqdm @ file:///croot/tqdm_1679561862951/work
+traitlets @ file:///work/ci_py311/traitlets_1676823305040/work
+urllib3 @ file:///work/ci_py311_2/urllib3_1679339405868/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+xgboost==1.7.3
